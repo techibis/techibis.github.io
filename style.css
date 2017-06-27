@@ -1,0 +1,29 @@
+body {
+  background-color: #b3ffff;
+}
+h1 {
+  color: #e6005c;
+  font-family: helvetica;
+  font-size: 50px;
+}
+h2 {
+  color: #e6005c;
+  font-family: helvetica;
+}
+p {
+  color: #000000;
+}
+.secondP {
+  color: #000000;
+}
+#firstP {
+  color:  #000000;
+}
+
+img {
+  opacity: 0.9;
+}
+.centerpic {
+  width: 810px;
+  margin: auto;
+}

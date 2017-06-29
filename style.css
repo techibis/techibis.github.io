@@ -27,3 +27,26 @@ img {
   width: 810px;
   margin: auto;
 }
+.box {
+    border-radius: 95px;
+    border: 2px solid #000099;
+    padding: 20px;
+    margin-bottom: 10px;
+    width: 800px;
+    height: 250px;
+
+}
+a {
+  font-size: 40px;
+}
+button {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  background: #fc12d9;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
